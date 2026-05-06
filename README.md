@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=006bed)
-# João Marcos de Lima Monezi
+# João Marcos Monezi
 Full-Stack Developer | Data Engineer | Business Intelligence | APIs & Automations
 
 I am a Full-Stack Developer and Data Engineer focused on web development, system integrations, process automation, and building solutions driven by real business problems. I have a strong background in business intelligence and data engineering, with proven experience working with data synchronization and automation pipelines in corporate environments. I also have practical experience leveraging Artificial Intelligence to build, integrate, and scale efficient technical solutions.
