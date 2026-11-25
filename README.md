@@ -6,7 +6,6 @@ I am a Full-Stack Developer and Data Engineer focused on web development, system
 
 ## Currently
 - 💼 Forward Deployment Engineer at Jestor
-- 🎓 Bachelor of Computer Science – Estácio de Sá
 - ⚙️ Specialist in data pipelines, corporate integrations, AI, and business intelligence
 - 🌎 Data Engineering / Full-stack Development / BI / Automations
 
